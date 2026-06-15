@@ -1,0 +1,16 @@
+# Dataset
+data/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
